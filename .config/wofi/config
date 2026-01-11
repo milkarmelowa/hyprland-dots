@@ -1,0 +1,15 @@
+x=700
+y=200
+lines=6
+columns=1
+width=540
+
+insensitive=true
+allow_images=true
+//hide_scroll=true
+no_actions=true
+image_size=60px;
+dynamic_lines=true
+single_click=true
+layer=overlay
+show_all=false
